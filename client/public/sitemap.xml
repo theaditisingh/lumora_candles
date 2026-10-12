@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace https://www.example.com with your real domain before launch. Product URLs can be generated from GET /api/products. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.example.com/</loc></url>
+  <url><loc>https://www.example.com/shop</loc></url>
+  <url><loc>https://www.example.com/about</loc></url>
+  <url><loc>https://www.example.com/contact</loc></url>
+  <url><loc>https://www.example.com/faq</loc></url>
+  <url><loc>https://www.example.com/shipping-policy</loc></url>
+  <url><loc>https://www.example.com/refund-policy</loc></url>
+  <url><loc>https://www.example.com/privacy-policy</loc></url>
+  <url><loc>https://www.example.com/terms</loc></url>
+</urlset>
