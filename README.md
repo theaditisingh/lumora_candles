@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lumora Candles
 
 A full-stack online store for premium scented candles: React storefront, Express API, PostgreSQL, Prisma, Razorpay payments (test mode first), cash on delivery, and an admin dashboard.
@@ -144,3 +145,7 @@ It registers a throwaway customer, checks search, the cart maths, a coupon, a ca
 - **Prisma "Authentication failed"**: wrong database password or port, or a stale `DATABASE_URL` Windows environment variable overriding `.env`.
 - **"Failed to resolve import"** in the website: a file is in the wrong folder, or run `npm install` in `client`.
 - **Razorpay "keys not set"**: the keys are not in the `.env` the API reads (`server/.env`). Restart after editing.
+=======
+# lumora_candles
+Full-stack e-commerce candle store built with React, Node.js, PostgreSQL and Razorpay.
+>>>>>>> c6ea9cee9cccd023759f3d08d2f399af50be1c84
